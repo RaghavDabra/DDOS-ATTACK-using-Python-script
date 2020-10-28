@@ -1,5 +1,14 @@
-In terms of prevention methods, one of the main ways to prevent DoS/DDoS attacks is through IP address spoofing. 
-Since many DoS/DDoS attacks require an initial target IP address in order to conduct the denial of service attack and direct the traffic/flood to, a denial of service attack would not work in the case of a spoofed IP address as IP address spoofing masks one's true IP by creating a false sourced IP address. 
+How to save yourself from a DDOS ATTACK using Ip spoofing
+(Still under work)
+
+
+
+In terms of prevention methods,
+one of the main ways to prevent DoS/DDoS attacks is through IP address spoofing. 
+
+Since many DoS/DDoS attacks require an initial target IP address in order to conduct the denial of service attack and direct the traffic/flood to, a denial of service attack would not work in the case of a spoofed IP address as IP address spoofing masks one's true IP by creating a false sourced IP address.
+
 IP address spoofing can be commonly done through a VPN (virtual private network) or proxy in which a user's network is given a false IP address to mask the true address. 
 Furthermore, another way to help prevent DoS/DDoS attacks is to buy more bandwidth in order to manage and reduce the amount of traffic/load caused by the denial of service attack on the network server.
- Lastly, since a majority of DoS/DDoS attacks flood through a server's ports, one can keep certain ports in a "closed" state instead of in an "open" state as this will prevent many denial of service programs from accessing and often flooding these ports with network packets.
+ 
+Lastly, since a majority of DoS/DDoS attacks flood through a server's ports, one can keep certain ports in a "closed" state instead of in an "open" state as this will prevent many denial of service programs from accessing and often flooding these ports with network packets.
