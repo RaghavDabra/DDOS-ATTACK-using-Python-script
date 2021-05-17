@@ -1,4 +1,4 @@
-# DDOS-ATTACK-using-Python-script
+# DOS-ATTACK-using-Python-script
 Distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic.  DDoS attacks achieve effectiveness by utilizing multiple compromised computer systems as sources of attack traffic. Exploited machines can include computers and other networked resources such as IoT devices.
 
 Steps :
